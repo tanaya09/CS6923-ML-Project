@@ -104,7 +104,7 @@ evaluate
 ## References
 1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 2. Language Models are Unsupervised Multitask Learners
-3. Other implementation references as listed in the paper
+   
 
 
 *Note: This is a research project implemented as part of CSGY 6923 Machine Learning course at NYU.*
